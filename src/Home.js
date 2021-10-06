@@ -1,7 +1,7 @@
 function Home() {
-    return(
-        <div>Luis Ventura FEW 2.3</div>
-    )
+  return(
+      <div>Luis Ventura FEW 2.3</div>
+  )
 }
 
 export default Home
